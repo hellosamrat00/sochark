@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Move-Item -Destination \"C:\\\\Users\\\\ACER\\\\Desktop\\\\SOCH\" -Force)",
+      "PowerShell(Remove-Item \"C:\\\\Users\\\\ACER\\\\Desktop\\\\SOCH\\\\soch-app\" -Recurse -Force -Confirm:$false)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
