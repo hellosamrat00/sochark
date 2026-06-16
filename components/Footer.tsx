@@ -30,7 +30,7 @@ export default function Footer() {
             SOCHARK<span className="text-accent">.</span>
           </Link>
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted">
-            Sochark Technologies — a software, AI &amp; cloud studio building
+            Sochark Technologies, a software, AI &amp; cloud studio building
             products that think. <span className="text-accent">✦</span>
           </p>
           <a

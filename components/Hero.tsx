@@ -52,7 +52,7 @@ export default function Hero() {
           className="mb-6 flex items-center gap-3 text-sm uppercase tracking-[0.25em] text-muted"
         >
           <span className="inline-block h-2 w-2 rounded-full bg-accent" />
-          Software · AI · Cloud · Growth — Sochark Technologies
+          Software · AI · Cloud · Growth · Sochark Technologies
         </motion.p>
 
         <h1 className="font-display text-[clamp(3rem,11vw,9.5rem)] font-bold leading-[0.95] tracking-tight">
@@ -81,7 +81,7 @@ export default function Hero() {
             className="max-w-md text-lg leading-relaxed text-muted"
           >
             From SaaS platforms and mobile apps to AI agents, cloud
-            infrastructure, and growth marketing — we turn ambitious ideas
+            infrastructure, and growth marketing. We turn ambitious ideas
             into software that ships, scales, and earns.
           </motion.p>
 

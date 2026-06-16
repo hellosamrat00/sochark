@@ -10,7 +10,7 @@ import { formatDate } from "@/lib/format";
 export const metadata: Metadata = {
   title: "Blog",
   description:
-    "Notes on software, AI, automation, cloud, and running a studio — written by the team at Sochark Technologies.",
+    "Notes on software, AI, automation, cloud, and running a studio, written by the team at Sochark Technologies.",
 };
 
 export default function BlogPage() {

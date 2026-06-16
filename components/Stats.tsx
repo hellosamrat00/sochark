@@ -49,7 +49,7 @@ export default function Stats() {
           </h2>
           <p className="mt-6 max-w-lg text-lg leading-relaxed text-muted">
             Most agencies hand you a deliverable and disappear. We operate as
-            your product team — designing, building, automating, and
+            your product team: designing, building, automating, and
             maintaining systems that compound in value. Whether you need a
             single landing page or a dedicated engineering squad, the quality
             bar stays the same.

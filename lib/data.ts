@@ -13,9 +13,9 @@ export const services: Service[] = [
     title: "Development",
     tagline: "Web, mobile & custom software engineered to scale.",
     items: [
-      "Web development — business websites, SaaS, dashboards",
-      "Mobile app development — Android, iOS, cross-platform",
-      "Custom software — ERP, CRM, internal systems",
+      "Web development: business websites, SaaS, dashboards",
+      "Mobile app development: Android, iOS, cross-platform",
+      "Custom software: ERP, CRM, internal systems",
       "API development & third-party integrations",
     ],
   },
@@ -30,7 +30,7 @@ export const services: Service[] = [
       "Business workflow automation",
       "AI agents & autonomous systems",
       "Data scraping & automation tools",
-      "No-code / low-code automation — Zapier, Make, n8n",
+      "No-code / low-code automation: Zapier, Make, n8n",
     ],
   },
   {
@@ -39,7 +39,7 @@ export const services: Service[] = [
     title: "Design",
     tagline: "Interfaces people remember. Brands people trust.",
     items: [
-      "UI/UX design — web & mobile apps",
+      "UI/UX design: web & mobile apps",
       "Wireframing & prototyping",
       "Product design systems",
       "Branding & visual identity",
@@ -51,7 +51,7 @@ export const services: Service[] = [
     title: "Cloud & DevOps",
     tagline: "Infrastructure that never becomes the bottleneck.",
     items: [
-      "Cloud setup & deployment — AWS, Azure, GCP",
+      "Cloud setup & deployment: AWS, Azure, GCP",
       "CI/CD pipelines",
       "Server & database management",
       "Performance optimization & scaling",
@@ -64,7 +64,7 @@ export const services: Service[] = [
     tagline: "Products are built. Growth is engineered.",
     items: [
       "SEO & technical SEO audits",
-      "Performance marketing — Google & Meta ads",
+      "Performance marketing: Google & Meta ads",
       "Content & social media marketing",
       "Email marketing & funnel automation",
       "Analytics & conversion rate optimization",
@@ -99,13 +99,13 @@ export const marqueeItems = [
 ];
 
 export const manifesto =
-  "Sochark begins with soch — thought. Every pixel, every endpoint, every campaign: thought through before it ships. We are the studio ambitious teams call when good enough isn't.";
+  "Sochark begins with soch, the word for thought. Every pixel, every endpoint, every campaign: thought through before it ships. We are the studio ambitious teams call when good enough isn't.";
 
 export const trustPoints = [
   {
     index: "01",
     title: "Your IP, fully yours",
-    body: "Code lives in your repos, infrastructure in your cloud accounts, and the contract says so — from day one, not at final payment.",
+    body: "Code lives in your repos, infrastructure in your cloud accounts, and the contract says so. From day one, not at final payment.",
   },
   {
     index: "02",
@@ -125,12 +125,12 @@ export const trustPoints = [
   {
     index: "05",
     title: "30-day handover guarantee",
-    body: "Documentation and walkthroughs good enough that you could take everything in-house within a month — most clients never want to.",
+    body: "Documentation and walkthroughs good enough that you could take everything in-house within a month. Most clients never want to.",
   },
   {
     index: "06",
     title: "Support that answers",
-    body: "Under-24-hour response, monitored uptime, and a human engineer on the other end — long after launch.",
+    body: "Under-24-hour response, monitored uptime, and a human engineer on the other end, long after launch.",
   },
 ];
 
@@ -146,7 +146,7 @@ export const testimonials = [
     company: "Homii App",
     country: "United Kingdom",
     type: "Mobile App",
-    body: "Sochark built Homii exactly the way we imagined it — a mobile app that helps students settle smoothly in the US with the right support, resources, and guidance. Weekly demos, clear communication, zero surprises.",
+    body: "Sochark built Homii exactly the way we imagined it. A mobile app that helps students settle smoothly in the US with the right support, resources, and guidance. Weekly demos, clear communication, zero surprises.",
     name: "Luke Domingo",
     role: "Owner, Homii App",
   },
@@ -154,7 +154,7 @@ export const testimonials = [
     company: "EvoPoint",
     country: "United Kingdom",
     type: "SaaS Platform",
-    body: "The team turned EvoPoint into a SaaS platform our customers genuinely enjoy using. Event planning, coordination, and execution finally live in one place — and they kept shipping improvements long after launch.",
+    body: "The team turned EvoPoint into a SaaS platform our customers genuinely enjoy using. Event planning, coordination, and execution finally live in one place, and they kept shipping improvements long after launch.",
     name: "Benjamin D. Roberts",
     role: "Client, EvoPoint",
   },
@@ -162,7 +162,7 @@ export const testimonials = [
     company: "Speedy Scrubbers",
     country: "Australia",
     type: "Web Application",
-    body: "Our whole cleaning business now runs on the web app Sochark built — operations, bookings, and customer interactions handled in one efficient system. It just works, and when we call, a real engineer answers.",
+    body: "Our whole cleaning business now runs on the web app Sochark built: operations, bookings, and customer interactions handled in one efficient system. It just works, and when we call, a real engineer answers.",
     name: "Prayag Joshi",
     role: "Client, Speedy Scrubbers",
   },
@@ -177,7 +177,7 @@ export const processSteps = [
   {
     index: "02",
     title: "Design",
-    body: "Wireframes to polished prototypes. You see and approve exactly what gets built — no surprises.",
+    body: "Wireframes to polished prototypes. You see and approve exactly what gets built. No surprises.",
   },
   {
     index: "03",

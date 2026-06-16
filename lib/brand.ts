@@ -17,7 +17,7 @@ export const brandColors = [
     name: "Volt",
     hex: "#D6FF3F",
     rgb: "214, 255, 63",
-    role: "The spark. Accents, CTAs, highlights — used sparingly, never for body text.",
+    role: "The spark. Accents, CTAs, highlights, used sparingly, never for body text.",
     text: "#0A0A0A",
   },
   {
@@ -41,7 +41,7 @@ export const typeScale = [
 export const logoRules = {
   dos: [
     "Use the wordmark in Bone on Ink, or Ink on Bone / Volt",
-    "Always end the wordmark with the Volt period — it is the spark",
+    "Always end the wordmark with the Volt period; it is the spark",
     "Keep clearspace equal to the height of the 'S' on all sides",
     "Minimum size: 24px tall on screen, 8mm in print",
   ],
@@ -64,7 +64,7 @@ export const voice = [
   },
   {
     trait: "Quietly witty",
-    detail: "A light touch of humor is welcome — 'we stay after the launch confetti settles' — never sarcasm at the client's expense.",
+    detail: "A light touch of humor is welcome, like 'we stay after the launch confetti settles', but never sarcasm at the client's expense.",
   },
   {
     trait: "Transparent",
@@ -75,11 +75,11 @@ export const voice = [
 export const graphicLanguage = [
   {
     name: "The Spark ✦",
-    detail: "A four-point star used as a separator and bullet. It represents the idea — 'soch' means thought. Always Volt or Bone.",
+    detail: "A four-point star used as a separator and bullet. It represents the idea; 'soch' means thought. Always Volt or Bone.",
   },
   {
     name: "Hairline grid",
-    detail: "1px lines at 12% Bone opacity divide content. Borders, not boxes — the layout breathes through hairlines.",
+    detail: "1px lines at 12% Bone opacity divide content. Borders, not boxes; the layout breathes through hairlines.",
   },
   {
     name: "Outline type",
@@ -91,6 +91,6 @@ export const graphicLanguage = [
   },
   {
     name: "Volt glow",
-    detail: "Soft radial Volt gradients at 15–20% opacity light key moments — hero and CTA only, never more than one per viewport.",
+    detail: "Soft radial Volt gradients at 15–20% opacity light key moments: hero and CTA only, never more than one per viewport.",
   },
 ];

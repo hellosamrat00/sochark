@@ -21,7 +21,7 @@ export default function TrustSection() {
               </h2>
               <p className="mt-6 max-w-sm text-lg leading-relaxed text-muted">
                 Anyone can promise quality. We put our promises in the
-                contract — six commitments every client gets in writing,
+                contract: six commitments every client gets in writing,
                 before any work begins.
               </p>
               <p className="mt-8 rounded-2xl border border-line bg-foreground/[0.03] p-6 text-sm leading-relaxed text-muted">
@@ -30,7 +30,7 @@ export default function TrustSection() {
                 </span>
                 <br />
                 Start with a one-week paid discovery sprint. If we waste your
-                time, you get a full refund — that&apos;s in writing too.
+                time, you get a full refund, and that&apos;s in writing too.
               </p>
             </Reveal>
           </div>

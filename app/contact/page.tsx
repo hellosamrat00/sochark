@@ -6,7 +6,7 @@ import Reveal from "@/components/Reveal";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Tell us what you're building. We reply within one business day with honest next steps — no sales script.",
+    "Tell us what you're building. We reply within one business day with honest next steps. No sales script.",
 };
 
 const details = [
@@ -32,7 +32,7 @@ export default function ContactPage() {
         eyebrow="Contact"
         title="Tell us what"
         titleOutline="you're building."
-        description="One short form. A real reply from an engineer — not a sales sequence."
+        description="One short form. A real reply from an engineer, not a sales sequence."
       />
 
       <section className="mx-auto max-w-7xl px-6 py-20">
@@ -59,7 +59,7 @@ export default function ContactPage() {
                 </div>
               ))}
               <p className="max-w-xs text-sm leading-relaxed text-muted">
-                Not sure what you need yet? That&apos;s fine — describe the
+                Not sure what you need yet? That&apos;s fine. Describe the
                 problem in plain words and we&apos;ll map the options with you.
                 <span className="text-accent"> ✦</span>
               </p>

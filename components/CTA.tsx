@@ -36,7 +36,7 @@ export default function CTA() {
         <Reveal delay={0.2}>
           <p className="mx-auto mt-8 max-w-md text-lg text-muted">
             Tell us what you&apos;re working on. We&apos;ll reply within one
-            business day with honest next steps — no sales script.
+            business day with honest next steps. No sales script.
           </p>
         </Reveal>
 

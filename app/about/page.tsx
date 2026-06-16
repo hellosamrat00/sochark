@@ -8,7 +8,7 @@ import Reveal from "@/components/Reveal";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Sochark fuses 'soch' — Nepali for thought — with 'spark'. We're a software, AI & cloud studio that operates as your product team — from first sketch to production scale.",
+    "Sochark fuses 'soch' (Nepali for thought) with 'spark'. We're a software, AI & cloud studio that operates as your product team, from first sketch to production scale.",
 };
 
 const values = [
@@ -22,11 +22,11 @@ const values = [
   },
   {
     title: "Built to hand over",
-    body: "Your code in your repos, documented from day one. You could take everything in-house in 30 days — most clients never want to.",
+    body: "Your code in your repos, documented from day one. You could take everything in-house in 30 days. Most clients never want to.",
   },
   {
     title: "Stay after launch",
-    body: "Software is a living thing. We monitor, maintain, and grow what we build — launch is the starting line.",
+    body: "Software is a living thing. We monitor, maintain, and grow what we build. Launch is the starting line.",
   },
 ];
 
@@ -37,7 +37,7 @@ export default function AboutPage() {
         eyebrow="About us"
         title="Thought,"
         titleOutline="ignited."
-        description="Sochark fuses 'soch' (सोच) — Nepali for thought — with 'spark': the instant an idea catches. We named the studio after the part of software that matters most: the thinking that happens before, during, and long after the code."
+        description="Sochark fuses 'soch' (सोच), Nepali for thought, with 'spark': the instant an idea catches. We named the studio after the part of software that matters most: the thinking that happens before, during, and long after the code."
       />
 
       {/* story */}
@@ -57,19 +57,19 @@ export default function AboutPage() {
             <div className="flex flex-col gap-6 text-lg leading-relaxed text-muted lg:pt-2">
               <p>
                 Sochark Technologies started with a simple observation: most
-                businesses don&apos;t need more software — they need software
+                businesses don&apos;t need more software. They need software
                 that was thought through. Rushed builds, abandoned codebases,
                 and agencies that vanish after the invoice clears are the
                 industry default. We built the studio we wished existed.
               </p>
               <p>
                 Today we design, build, automate, market, and maintain digital
-                products across six service verticals — from a landing page
+                products across six service verticals, from a landing page
                 that needs to convert, to an AI agent that quietly runs a back
                 office, to a growth engine that compounds month after month.
               </p>
               <p>
-                We work with clients globally, but we build from Nepal — proof
+                We work with clients globally, but we build from Nepal, proof
                 that world-class software thinking doesn&apos;t need a famous
                 zip code, just a high bar and the discipline to keep it.
               </p>

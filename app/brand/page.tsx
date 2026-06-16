@@ -14,7 +14,7 @@ import {
 export const metadata: Metadata = {
   title: "Brand book",
   description:
-    "The Sochark Technologies brand system — logo, color palette, typography, graphic language, and voice.",
+    "The Sochark Technologies brand system: logo, color palette, typography, graphic language, and voice.",
 };
 
 function SectionTitle({
@@ -43,7 +43,7 @@ export default function BrandPage() {
         eyebrow="Brand book · v1.0"
         title="The Sochark"
         titleOutline="brand system."
-        description="Everything needed to represent Sochark Technologies consistently — logo, color, type, graphic language, and voice. One source of truth."
+        description="Everything needed to represent Sochark Technologies consistently: logo, color, type, graphic language, and voice. One source of truth."
       />
 
       {/* 01 — Logo */}
@@ -68,10 +68,10 @@ export default function BrandPage() {
         <Reveal delay={0.15}>
           <p className="mt-8 max-w-2xl leading-relaxed text-muted">
             The wordmark is set in Space Grotesk Bold with tight tracking and
-            always ends with a period — <em className="text-foreground">the spark</em>.
+            always ends with a period, <em className="text-foreground">the spark</em>.
             On Ink, the period is Volt. On light surfaces, the whole mark
-            switches to Ink. &ldquo;Sochark&rdquo; fuses &ldquo;soch&rdquo; (सोच) — Nepali for{" "}
-            <em className="text-foreground">thought</em> — with &ldquo;spark&rdquo;;
+            switches to Ink. &ldquo;Sochark&rdquo; fuses &ldquo;soch&rdquo; (सोच), Nepali for{" "}
+            <em className="text-foreground">thought</em>, with &ldquo;spark&rdquo;;
             the period marks the moment a thought catches.
           </p>
         </Reveal>
@@ -124,7 +124,7 @@ export default function BrandPage() {
           <Reveal delay={0.2}>
             <p className="mt-8 max-w-2xl text-sm leading-relaxed text-muted">
               Ratio guide: roughly 70% Ink, 20% Bone, 7% Graphite, 3% Volt.
-              Volt is an exclamation point, not a paragraph — one Volt moment
+              Volt is an exclamation point, not a paragraph. One Volt moment
               per viewport. Hairlines use Bone at 12% opacity.
             </p>
           </Reveal>
@@ -138,13 +138,13 @@ export default function BrandPage() {
           <Reveal className="h-full">
             <div className="h-full bg-background p-10">
               <p className="mb-4 text-xs uppercase tracking-[0.25em] text-muted">
-                Display — Space Grotesk
+                Display · Space Grotesk
               </p>
               <p className="font-display text-6xl font-bold tracking-tight">
                 Aa Bb Cc
               </p>
               <p className="mt-4 font-display text-xl text-foreground/80">
-                0123456789 — ?!&amp;✦
+                0123456789 · ?!&amp;✦
               </p>
               <p className="mt-6 text-sm leading-relaxed text-muted">
                 Headlines, numbers, buttons, and the wordmark. Weights 500–700.
@@ -155,11 +155,11 @@ export default function BrandPage() {
           <Reveal delay={0.1} className="h-full">
             <div className="h-full bg-background p-10">
               <p className="mb-4 text-xs uppercase tracking-[0.25em] text-muted">
-                Body — Inter
+                Body · Inter
               </p>
               <p className="text-6xl font-medium tracking-tight">Aa Bb Cc</p>
               <p className="mt-4 text-xl text-foreground/80">
-                0123456789 — ?!&amp;
+                0123456789 · ?!&amp;
               </p>
               <p className="mt-6 text-sm leading-relaxed text-muted">
                 Body copy, UI labels, captions, and forms. Weights 400–600.

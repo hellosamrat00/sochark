@@ -8,7 +8,7 @@ import CTA from "@/components/CTA";
 export const metadata: Metadata = {
   title: "Services",
   description:
-    "Web development, mobile apps, AI & automation, design, cloud & DevOps, digital marketing, and long-term support — full-stack capability under one roof.",
+    "Web development, mobile apps, AI & automation, design, cloud & DevOps, digital marketing, and long-term support. Full-stack capability under one roof.",
 };
 
 export default function ServicesPage() {
@@ -18,7 +18,7 @@ export default function ServicesPage() {
         eyebrow="Services"
         title="Everything it takes"
         titleOutline="to ship."
-        description="Six verticals, one accountable team. Scan the index, dive into any service — no mystery line items."
+        description="Six verticals, one accountable team. Scan the index, dive into any service. No mystery line items."
       />
       <ServiceSections />
       <Marquee />

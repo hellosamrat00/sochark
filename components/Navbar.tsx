@@ -149,7 +149,7 @@ export default function Navbar() {
               className="border-t border-line px-6 py-8"
             >
               <p className="max-w-xs text-sm leading-relaxed text-muted">
-                Sochark Technologies — a software, AI &amp; cloud studio
+                Sochark Technologies, a software, AI &amp; cloud studio
                 building products that think. <span className="text-accent">✦</span>
               </p>
               <a

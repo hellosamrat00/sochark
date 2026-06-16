@@ -18,8 +18,8 @@ const grotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: {
-    default: "Sochark Technologies — Software, AI & Cloud Studio",
-    template: "%s — Sochark Technologies",
+    default: "Sochark Technologies · Software, AI & Cloud Studio",
+    template: "%s · Sochark Technologies",
   },
   description:
     "Sochark Technologies builds web platforms, mobile apps, AI automation, and cloud infrastructure for ambitious businesses. Development, design, DevOps, training, and outsourcing under one roof.",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     "Sochark Technologies",
   ],
   openGraph: {
-    title: "Sochark Technologies — Software, AI & Cloud Studio",
+    title: "Sochark Technologies · Software, AI & Cloud Studio",
     description:
       "We design, build, and scale digital products that think. Web, mobile, AI, cloud, and dedicated teams.",
     type: "website",
